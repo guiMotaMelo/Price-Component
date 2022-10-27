@@ -15,3 +15,22 @@
     color: var(--Grayish-Blue);
     font-size: 0.875rem ;
 }
+.esquerda>div{
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    margin-bottom: 0.25rem;
+}
+.esquerda>p{
+    color: white;
+    line-height: 1.625rem;
+    margin-bottom: 1.625rem;
+}
+.esquerda>button{
+    padding-inline: 1rem;
+    width: 100%;
+    color: white;
+    font-size: 1rem;
+    line-height: 1.125rem;
+    border: none;
+}
